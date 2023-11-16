@@ -1,6 +1,6 @@
 ### Oi, eu sou o Luiz! 👋
 
-- 🔭 Atualmente trabalho como Designer Gráfico
+- 🔭 Atualmente trabalho como Designer
 - 🌱 Estudando Desenvolvimento de Software FullStack
 <br>
 <div align="center">
